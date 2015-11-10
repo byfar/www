@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://www.byfar.co.jp"
 languageCode = "ja"
 title = "Byfar Inc."
 theme = "hugoscroll"
