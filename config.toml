@@ -1,0 +1,11 @@
+baseurl = "/"
+languageCode = "ja"
+title = "Byfar Inc."
+theme = "hugoscroll"
+
+[params]
+  copyright = "Byfar Inc. All rights reserved."
+  description = "株式会社バイファー"
+  github    = "byfar/www"
+  email     = "contact@byfar.co.jp"
+  cover = "img/nasa-bg.jpg"
